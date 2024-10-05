@@ -1,10 +1,10 @@
-a=10
-b=11
-c=12
-if(a>=b and a>=c):
-    largest=a
-elif(b>=a and b>=c):
-    largest=b
+
+a=int(input("enter a number:"))
+b=int(input("enter a number:"))
+if (a>b):
+    print("a is greater ")
+elif (a==b):
+    print("a is equal to b")    
 else:
-    largest=c
-print(largest)
+        print("b is greater")
+
