@@ -1,7 +1,14 @@
-# sum of natural,odd ,even number
+# sum of natural
 a=int(input("enter the number"))
-sum=0
+esum=0
+osum=0
+nsum=0
 for i in range(1,a+1):
+    nsum=nsum+i
     if(i%2==0):
-        sum=sum+i
-print(sum)
+        esum=esum+i
+    elif(i%2==1): 
+        osum=osum+i  
+print(esum,"even number")
+print(osum,"odd number")
+print(nsum,"natural numbers")
