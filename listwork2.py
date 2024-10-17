@@ -1,11 +1,11 @@
-#input 5 names and display it in reverse 
-a=input("enter the word")
-b=input("enter the word")
-c=input("enter the word")
-d=input("enter the word")
-e=input("enter the word")
-print(a[::-1])
-print(b[::-1])
-print(c[::-1])
-print(d[::-1])
-print(e[::-1])
+# input 5 names and display it in reverse 
+
+a=[]
+limit=int(input("enter the limit"))
+for i in range(limit):
+    b=input("enter the name")
+    a.append(b)
+print("reverse order")
+for i in a:
+    print(i[::-1])
+
