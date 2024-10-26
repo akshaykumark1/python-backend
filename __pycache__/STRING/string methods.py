@@ -2,6 +2,14 @@
 # a=input("enter the word")
 # print(a[::-1])
 
+#string slicing
+a="welcome"
+print(a[2])
+
+
+
+
+
 # # skip 2 character
 # a=(input("enter the word"))
 # print(a[::2])
