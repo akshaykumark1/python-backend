@@ -7,11 +7,9 @@ if(a<b):
             print(a,"is even")
         else:
             print(a,"is odd")
-        a+=1
+        a=a+1 
 else:
-    while a>=b:
-            if(a%2==0):
-                print(a,"is even")
-            else:
-                print(a,"is odd")
-            a-=1
+    print("invalid")
+
+
+

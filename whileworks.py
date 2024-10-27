@@ -18,6 +18,7 @@
 # i=a
 # while(i<=b):
 #     print(i)
+
 #     i+=1
 
 # print even number up to 10

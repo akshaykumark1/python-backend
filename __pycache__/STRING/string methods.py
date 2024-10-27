@@ -3,8 +3,8 @@
 # print(a[::-1])
 
 #string slicing
-a="welcome"
-print(a[2])
+# a="welcome"
+# print(a[2])
 
 
 
