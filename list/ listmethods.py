@@ -25,7 +25,11 @@
 # print(a)
 
 
-#remove in list 
+# # remove in list 
 # a=["orange","apple"]
 # a.remove("orange")
 # print(a)
+
+# n=[1,2,3,4,5]
+# n.pop(3)
+# print(n)

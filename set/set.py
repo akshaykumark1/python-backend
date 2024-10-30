@@ -4,6 +4,8 @@
 # set is a collection of unique elements
 # set is unordered
 # set is mutable
+# list in list is not possible,set in set is possible,
+
 # #set add
 # set={1,2,3,4,5}
 # set.add(6)
@@ -14,7 +16,7 @@
 # set.update({6,7,8})
 # print(set)
 
-# # #set remove
+# #set remove
 # set={1,2,3,4,5}
 # set.remove(2)
 # print(set)
@@ -28,9 +30,8 @@
 
 
 # #set discard
-
 # set={1,2,3,4,5}
-# set.discard(6)
+# set.discard(5)
 # print(set)
 
 
@@ -49,3 +50,10 @@
 # print(a)
 # a.symmetric_difference_update(b)
 # print(a)
+
+
+
+
+
+
+
