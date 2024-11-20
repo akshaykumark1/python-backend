@@ -44,7 +44,8 @@ def view_books():
 def main():
     print("welcome to library")
     while True:
-        print("""1.add book
+        print("""
+              1.add book
               2.update book
               3.remove book
               4.view book
