@@ -6,5 +6,5 @@ if re.search(x,password):
     print("valid password")
 else:
     print("invalid password")
-    +
+    
     
