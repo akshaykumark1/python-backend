@@ -9,3 +9,4 @@ l1=tkinter.Label(win,text="hello",fg="blue")
 l1.pack()
 l1.place(x=100,y=100)
 win.mainloop()
+

@@ -6,6 +6,6 @@
 # from module import sample
 # sample()                            #second method
 # --------------------------------------------------------------------------------------------------#
-from module import *  
-sample1()                             # third method*
+# from module import *  
+# sample1()                             # third method*
 #-----------------------------------------------------------------------------------------------#

@@ -9,3 +9,4 @@
 # f = open("hlo.txt",'x')
 f = open("hlo.txt",'w')
 f.write("hi")
+f.a("12")

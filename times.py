@@ -1,4 +1,4 @@
-# import datetime
+import datetime
 a=datetime.datetime.now()#current time
 print(a)
 print(a.strftime("%b"))#month
